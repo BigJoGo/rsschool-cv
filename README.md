@@ -1,1 +1,1 @@
-# BigJoGo-rsschool-cv
+# rsschool-cv
