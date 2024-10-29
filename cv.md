@@ -26,10 +26,7 @@ A young and motivated software developer with a strong desire to learn and grow 
       print("Hello, World!")
   ```
 
-## Education
 
-- **Bachelor of Laws**  
-  Uzhhorod National University, 2011
 
 ## Work Experience
 
@@ -48,7 +45,10 @@ A young and motivated software developer with a strong desire to learn and grow 
 - **Level:** Upper Intermediate (A2)
 - **Experience:** Completed an internship at an international company, regularly participated in meetings conducted in English.
 
+## Education
 
+- **Bachelor of Laws**  
+  Uzhhorod National University, 2011
 
 ## Courses and Training
 
