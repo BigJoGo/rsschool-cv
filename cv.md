@@ -30,14 +30,13 @@ A young and motivated software developer with a strong desire to learn and grow 
 
 ## Work Experience
 
-- **Academic Project: Task Management Web Application**  
-  Skills used: Python, Django, JavaScript, React  
-  [Source Code](https://github.com/ivanivanov/task-manager-app)
+- **Pokemon Game v0.1**  
+  Skills used: GOlang, HTML, CSS  
+  [Source Code](https://github.com/BigJoGo/PokemonGoLang)
 
-- **Academic Project: JavaScript Game**  
-  Skills used: JavaScript, HTML, CSS  
-  [Source Code](https://github.com/ivanivanov/js-game)
-
+- **Rental Jobcenter Checker**  
+  Skills used: GOlang, HTML, CSS  
+  [Source Code](https://github.com/BigJoGo/JobcenterUndSoziale---Wohnung-)
 
 
   ## English Language
