@@ -26,6 +26,11 @@ A young and motivated software developer with a strong desire to learn and grow 
       print("Hello, World!")
   ```
 
+## Education
+
+- **Bachelor of Laws**  
+  Uzhhorod National University, 2011
+
 ## Work Experience
 
 - **Academic Project: Task Management Web Application**  
@@ -36,17 +41,18 @@ A young and motivated software developer with a strong desire to learn and grow 
   Skills used: JavaScript, HTML, CSS  
   [Source Code](https://github.com/ivanivanov/js-game)
 
-## Education
 
-- **Bachelor of Laws**  
-  Uzhhorod National University, 2011
+
+  ## English Language
+
+- **Level:** Upper Intermediate (A2)
+- **Experience:** Completed an internship at an international company, regularly participated in meetings conducted in English.
+
+
 
 ## Courses and Training
 
 - **Python Course**, Stepik.org, 2023
 - **Codecademy.com**, 2024
 
-## English Language
 
-- **Level:** Upper Intermediate (A2)
-- **Experience:** Completed an internship at an international company, regularly participated in meetings conducted in English.
